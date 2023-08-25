@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
           SizedBox(
             height: 80,
             child: Card(
-              elevation: 10,
+              elevation: 3,
               child: Padding(
                 padding: const EdgeInsets.all(15),
                 child: InkWell(
@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
           SizedBox(
             height: 80,
             child: Card(
-              elevation: 10,
+              elevation: 3,
               child: Padding(
                 padding: const EdgeInsets.all(15),
                 child: InkWell(
