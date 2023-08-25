@@ -1,16 +1,9 @@
-# xm_14
+## xm_14
 
-A new Flutter project.
+![Screenshot_20230825-182637_xm_14](https://github.com/MehadiReaz/Assignment-14/assets/65062761/d8cb0e1b-c225-4992-89f7-60026c78ba63)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230825-182642_xm_14](https://github.com/MehadiReaz/Assignment-14/assets/65062761/80f45d80-116e-4c78-87f2-f3c2f267bedf)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230825-182655_xm_14](https://github.com/MehadiReaz/Assignment-14/assets/65062761/a793615d-8562-4b05-aff2-a9f6a1cc411a)
